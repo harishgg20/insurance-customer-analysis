@@ -98,8 +98,3 @@ Provides insights into claims settlement trends (rejected vs. pending vs. settle
 Enables customer segmentation by gender and age group.
 
 Supports decision-making on policy improvements and risk management.
-
-## 📈 Dashboard Preview  
-Here is a snapshot of the Power BI dashboard:  
-
-![Dashboard Preview](Dashboard.png)
