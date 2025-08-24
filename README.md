@@ -102,4 +102,4 @@ Supports decision-making on policy improvements and risk management.
 ## 📈 Dashboard Preview  
 Here is a snapshot of the Power BI dashboard:  
 
-![Dashboard Preview](dashboard/dashboard.png)
+![Dashboard Preview](Dashboard.png)
